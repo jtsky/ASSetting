@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="IGNORE_GROUP" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
 </application>
